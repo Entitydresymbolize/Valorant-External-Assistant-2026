@@ -1,12 +1,14 @@
 name: Keep Alive
 on:
   schedule:
-    - cron: '0 12 * * *'  # daily at noon UTC
+    - cron: '0 */3 * * *'  
   workflow_dispatch:
 
 jobs:
   keepalive:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
       - uses: actions/checkout@v4
       - name: Update timestamp
